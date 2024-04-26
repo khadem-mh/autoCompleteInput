@@ -3,7 +3,7 @@
 # <p align="center"> Hi there 👋 I'm Mohammad Hossein 👨‍💻 </p>
  <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
 
-## Descripton Mini-Project
+## Description Mini-Project
 - A beautiful and very useful search box for websites that show predefined data
 
 - If there is no searched data, an appropriate error will be shown to the user and vice versa.
